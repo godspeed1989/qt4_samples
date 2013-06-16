@@ -1,0 +1,16 @@
+QPushButton
+{
+	color:red
+}
+QPushButton
+{
+	background:yellow
+}
+QPushButton:hover:!pressed
+{
+	color:green
+}
+QPushButton:hover:pressed
+{
+	color:blue
+}
